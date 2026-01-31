@@ -1,0 +1,4 @@
+[20052:23060:0131/212125.498:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20052:23060:0131/212125.542:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20052:2696:0131/212125.557:ERROR:external_registry_loader_win.cc(158)] File C:\Users\18528\AppData\Local\Programs\quark-cloud-drive\resources\assets\extensions\win32\main.crx for key Software\Google\Chrome\Extensions\golbdgciocipijcnkhfjbljaepchclbc does not exist or is not readable.
+[1872:20880:0131/212132.923:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C065AC25BBDF634C0C0A21D25B6AEED9 will be ignored
